@@ -127,7 +127,7 @@ public class StartMenu extends JFrame implements ActionListener {
 		// About
 		if (event.getActionCommand().equals("About")) {
 			JOptionPane.showMessageDialog(pnl,
-					"Tower Defense\n Created By: Kalvin Kao & Brandon Shim",
+					"Tower Defense\n Created By: Kalvin Kao",
 					"About", JOptionPane.WARNING_MESSAGE);
 		}
 		// Exit Game
