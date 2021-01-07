@@ -5,7 +5,7 @@
  *	            to win you will have to kill a certain amount of enemies before you run out of 20
  *	       		lives.
  *
- * Kalvin Kao & Brandom Shim
+ * Kalvin Kao
  * Jan 17th 2013
  */
 
@@ -21,7 +21,7 @@ public class StartMenu extends JFrame implements ActionListener {
 	// buttons
 	private JButton start;
 	// title of frame
-	public static String title = "Tower Defense - Kalvin Kao & Brandon Shim";
+	public static String title = "Tower Defense - Kalvin Kao";
 	// size of frame
 	public static Dimension size = new Dimension(800, 800);
 	// jmenu items
